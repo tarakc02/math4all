@@ -52,6 +52,9 @@ For All NOLA 2023](https://sites.google.com/view/mathforallnola)
 - [Adaptive Blocking: Learning to Scale Up Record
   Linkage](https://www.cs.utexas.edu/~ml/papers/blocking-icdm-06.pdf)
 
+- [OHCHR statement on the Final Report of the Truth
+  Commission](https://www.ohchr.org/en/statements/2022/06/colombian-truth-commissions-final-report)
+
 # Chicago: Beneath the Surface, and working with unstructured data
 
 - [Beneath the Surface website](https://btsurface.com/)
@@ -63,3 +66,7 @@ For All NOLA 2023](https://sites.google.com/view/mathforallnola)
   and February 16, 2006 about Diane Bond and the background to the Bond v.
   Utreras federal civil rights case that opened the door to police misconduct
   data in Chicago becoming public information.
+
+- [Charles Green says his fight for decades of Chicago police misconduct
+  records is about clearing his
+  name](https://www.chicagoreporter.com/charles-green-says-his-fight-for-decades-of-chicago-police-misconduct-records-is-about-clearing-his-name/)
